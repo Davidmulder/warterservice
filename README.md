@@ -55,7 +55,7 @@ Usado do modelo de framework, no servidor linux e windows
 
 ## Modelos
 
-1. Teste modelo 
+1. Modelo realizado dados não reais
 2. Todos os direito autoras pela david orion<br />
 3. Modelo apenas ilustratorio<br />
 
